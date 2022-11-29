@@ -110,7 +110,7 @@ p {
   section {
     gap: 72px;
     height: auto;
-    padding: 71px 110px 59px 71px;
+    padding: 71px 115px 59px 71px;
   }
 
   article {
@@ -128,6 +128,7 @@ p {
 
   .stats {
     flex-direction: row;
+    padding-right:20px;
   }
 
   .imgcontainer {
